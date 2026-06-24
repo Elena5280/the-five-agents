@@ -1,0 +1,9 @@
+# Environment variables — secrets, never commit
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
